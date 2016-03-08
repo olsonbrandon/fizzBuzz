@@ -1,0 +1,54 @@
+h1{
+  text-align: center;
+  text-shadow: 2px 2px 2px #5A9EA6;
+  font-size: 75px;
+  font-family: fantasy, sans-serif;
+}
+
+#welcome{
+text-align: center;
+}
+.fizzbuzz{
+  background-color: #67BEDB;
+  text-align: center;
+  border-radius: 100%;
+  display: inline-block;
+  width: 230px;
+  height: 230px;
+  margin: 10px;
+  font-family: Comic Sans MS;
+}
+.fizz{
+  background-color: #BE67DB;
+  text-align: center;
+  border-radius: 100%;
+  display: inline-block;
+  width: 230px;
+  height: 230px;
+  vertical-align: super;
+  margin: 10px;
+  font-family: Comic Sans MS;
+}
+.buzz{
+  background-color: #7DE34F;
+  text-align: center;
+  border-radius: 100%;
+  display: inline-block;
+  width: 230px;
+  height: 230px;
+  margin: 10px;
+  font-family: Comic Sans MS;
+}
+.none{
+  background-color: #E3E5E6;
+  text-align: center;
+  border-radius: 100%;
+  display: inline-block;
+  width: 230px;
+  height: 230px;
+  margin: 10px;
+  font-family: Comic Sans MS;
+}
+.fizzbuzz h2, .fizz h2, .buzz h2, .none h2 {
+  margin-top: 100px;
+}
